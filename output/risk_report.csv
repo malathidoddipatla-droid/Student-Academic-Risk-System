@@ -1,0 +1,9 @@
+Student ID,Name,Attendance,Assignment,Quiz,Risk Score,Risk Level,Risk Reason
+S001,Anjali,92,88,85,88.7,LOW,Good Performance
+S002,Ravi,68,52,48,57.2,MEDIUM,Low Attendance; Low Quiz; 
+S003,Priya,78,70,65,71.7,LOW,Good Performance
+S004,Kiran,55,42,38,46,HIGH,Low Attendance; Low Assignment; Low Quiz; 
+S005,Sneha,88,84,82,85,LOW,Good Performance
+S006,Arjun,64,55,50,57.1,MEDIUM,Low Attendance; 
+S007,Divya,95,91,94,93.5,LOW,Good Performance
+S008,Rahul,72,68,62,67.8,MEDIUM,Low Attendance; 
